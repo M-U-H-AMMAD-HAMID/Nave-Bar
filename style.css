@@ -1,0 +1,24 @@
+div{
+    background-color: blue;
+    height: 70px;
+    font-style: normal;
+    
+    
+
+}
+a{
+text-transform: none ; 
+color: white;
+margin-right: 50px;
+}
+a{
+    font-weight: 500px;
+}
+input{
+    height: 30px;
+    width: 90px;
+}
+button{
+    height: 20px;
+    width: 60px;
+}
